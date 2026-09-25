@@ -39,3 +39,6 @@ bank-account-simulator/
 - Error handling for invalid actions (overdrawing, invalid input)
 - Converting custom objects to/from JSON for saving and loading data
 - Building a menu-driven program loop
+
+next step: wrap this in a Flask API + simple frontend ( would be done later in the future as a full project view )
+
